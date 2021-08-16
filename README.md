@@ -4,10 +4,10 @@
 - 📫 Contate-me no email: warllei.s.martins@hotmail.com
 - 😄 Pronomes: ele/dele
 
-<div>
+<div >
   <a href="https://github.com/warlleism">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warlleism&show_icons=true&theme=sublime&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warlleism&layout=compact&langs_count=7&theme=sublime"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warlleism&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warlleism&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
    
@@ -26,5 +26,6 @@
  <a href="https://discord.gg/XTkp4JPg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:warllei.s.martins@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
 </div>
