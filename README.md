@@ -1,6 +1,6 @@
 ### Olá! Warllei Martins aqui 👋
 
-- 📜 Estudando HTML,CSS,JavScript,Python,C#,back-end,front-end
+- 📜 Estudando HTML, CSS, JavScript, Python, C#, Back-end, Front-end
 - 📫 Contate-me no email: warllei.s.martins@hotmail.com
 - 😄 Pronomes: ele/dele
 
