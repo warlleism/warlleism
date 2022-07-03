@@ -1,6 +1,6 @@
 ### Olá! Warllei Martins aqui 👋
 
-- 📜 Estudando C#, Front-end, Angular
+- 📜 Estudando reactJs, ReactNative
 - 📫 Contate-me no email: warllei.s.martins@hotmail.com
 - 😄 Pronomes: ele/dele
 
