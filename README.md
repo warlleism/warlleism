@@ -1,6 +1,6 @@
 ### Olá! Warllei Martins aqui 👋
 
-- 📜 Estudando reactJs, ReactNative
+- 📜 Estudando reactJs, ReactNative, Node
 - 📫 Contate-me no email: warlleimartinsdev@outlook.com
 - 😄 Pronomes: ele/dele
 
