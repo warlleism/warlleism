@@ -1,4 +1,4 @@
-<h1 style="red">Olá! Warllei Martins aqui 👋</h1>
+<h1 style="color: red">Olá! Warllei Martins aqui 👋</h1>
 
 - 📜 Estudando reactJs, ReactNative, NodeJs, Sql.
 - 📫 Contate-me no email: warlleimartinsdev@outlook.com
