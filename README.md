@@ -2,7 +2,7 @@
 
 - 📜 Estudando ReactJs | React Native | NodeJs | Sql | UI.
 - 📫 Contate-me no email: warlleimartinsdev@outlook.com
--  📱  Contate-me no whatsapp: 27995804151
+-  📱  Contate-me no whatsapp: 27995804151 | https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp
 - 😄 Pronomes: ele/dele
 
   
