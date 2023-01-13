@@ -4,7 +4,6 @@
 - 📫 Contato: warlleimartinsdev@outlook.com
 -  📱 Contate-me no whatsapp: 27995804151 | https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp
 
-<h1>PT-BR</h1>   
 <div>
 <h2>Sobre min:</h2>
   
