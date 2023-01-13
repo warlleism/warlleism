@@ -6,7 +6,7 @@
 
 <h1>PT-BR</h1>   
 <div>
-<h1>Sobre min:</h1>
+<h2>Sobre min:</h2>
   
 Olá! meu nome é Warllei. Estudante de análise e desenvolvimento de sistema pela "Universidade Vila Velha". Sou um desenvolvedor Front-end com 1 ano. Já trabalhei na criação de sites, redes sociais, ecommerce, portais, designs e apps mobile.
 <div/>
@@ -19,13 +19,13 @@ Ingressei na faculdade em abril de 2022, onde curso Análise e Desenvolvimento d
    
 <h1>EN-US</h1>   
 <div>
-<h1>about me:</h1>
+<h2>about me:</h2>
   
 Hi! My name is Warley. Student of system analysis and development at "Universidade Vila Velha". I'm a 1 year old Front-end developer. I've worked on creating websites, social networks, ecommerce, portals, designs and mobile apps.
 <div/>
   
 <div>
-<h1>My Programming Story:</h1>
+<h2>My Programming Story:</h2>
 In December 2021 I became interested in programming, starting in this world with algorithms and programming logic and later HTML, CSS, JavaScript.
 I entered college in April 2022, where I study Systems Analysis and Development. Today I consider myself a junior front-end developer.
 <div/>
