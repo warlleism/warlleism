@@ -16,8 +16,10 @@ Em dezembro de 2021 me interessei pela programação, iniciando neste mundo por 
 Ingressei na faculdade em abril de 2022, onde curso Análise e Desenvolvimento de Sistemas. Hoje me considero um desenvolvedor front-end júnior.
 <div/>
    
-<h1>EN-US</h1>   
+
 <div>
+<h1>EN-US</h1>   
+  
 <h2>about me:</h2>
   
 Hi! My name is Warley. Student of system analysis and development at "Universidade Vila Velha". I'm a 1 year old Front-end developer. I've worked on creating websites, social networks, ecommerce, portals, designs and mobile apps.
