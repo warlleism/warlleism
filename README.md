@@ -1,7 +1,9 @@
 <h1>Olá! Meu nome é Warllei Martins👋</h1>
 
-- 📜 HTML | CSS | JavaScript | ReactJs | NodeJs.
+- 📜 JavaScript | typeScript | ReactJs | NodeJs
+- 
 - 📫 Contato: warlleimartinsdev@outlook.com
+- 
 -  📱 Contate-me no whatsapp: 27995804151 | https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp
 
 <div>
