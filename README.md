@@ -1,6 +1,6 @@
 <h1>Olá! Meu nome é Warllei Martins👋</h1>
 
-- 📜 JavaScript | typeScript | ReactJs | NodeJs | Typescript | Context API | API rest | React Hooks | Styled-component
+- 📜 JavaScript | typeScript | ReactJs | NextJs | NodeJs | Typescript | Context API | API rest | React Hooks | Styled-component
 - 📫 Contato: warlleimartinsdev@outlook.com
 -  📱 Contate-me no whatsapp: 27995804151 | https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp
 
