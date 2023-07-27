@@ -1,6 +1,6 @@
 <h1>Olá! Meu nome é Warllei Martins👋</h1>
 
-- 📜 JavaScript | typeScript | ReactJs | NextJs | NodeJs | Typescript | Context API | API rest | React Hooks | Styled-component
+- 📜 Desenvolvedor Front-end | JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML/CSS | SASS | Tailwind | UI Design | Web Design | Figma
 - 📫 Contato: warlleimartinsdev@outlook.com
 -  📱 Contate-me no whatsapp: 27995804151 | https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp
 
@@ -21,7 +21,7 @@ Ingressei na faculdade em abril de 2022, onde curso Análise e Desenvolvimento d
   <a href="https://www.instagram.com/warlleimartinsdev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/XTkp4JPg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:warlleimartinsdev@outlook"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/warllei-martins-823510153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></
+  <a href="[https://www.linkedin.com/in/warllei-martins-823510153/](https://www.linkedin.com/in/warllei-martins-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-823510153/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></
 </div>
 
   
