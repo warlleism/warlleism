@@ -7,7 +7,7 @@
 <div>
 <h2>Sobre min:</h2>
   
-Olá! Meu nome é Warllei e atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha. Tenho uma paixão por desenvolvimento front-end e já trabalhei em diversos projetos de criação de sites, redes sociais, e-commerce, portais, designs, blogs e aplicativos móveis. Como desenvolvedor júnior, estou em busca de oportunidades para adquirir conhecimento, experiência e aprimorar minhas habilidades. Estou animado para fazer parte de uma equipe inovadora e colaborativa, contribuir para projetos desafiadores e aprender com profissionais experientes. Estou sempre em busca de novos desafios e oportunidades para crescer na minha carreira.
+Olá! Meu nome é Warllei e sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha, com foco no desenvolvimento front-end. Ao longo dos meus dois anos de experiência, tive a oportunidade de trabalhar em diversos projetos envolvendo a criação de sites, redes sociais, e-commerce, portais, designs, blogs e aplicativos móveis.
 <div/>
   
 <div>
