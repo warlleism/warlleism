@@ -12,8 +12,8 @@ Olá! Meu nome é Warllei e sou estudante de Análise e Desenvolvimento de Siste
   
 <div>
 <h1>Minha história na programação:</h1>
-Em dezembro de 2021 me interessei pela programação, iniciando neste mundo por algoritimo e lógica de programação e posteriormente HTML, CSS, JavaScript.
-Ingressei na faculdade em abril de 2022, onde curso Análise e Desenvolvimento de Sistemas. Hoje me considero um desenvolvedor front-end júnior.
+  
+Em dezembro de 2021, meu interesse pela programação surgiu e desde então mergulhei de cabeça nesse fascinante mundo, começando pelo estudo de algoritmos e lógica de programação e, posteriormente, avançando para as tecnologias web, como HTML, CSS e JavaScript. Em abril de 2022, dei mais um passo em direção ao meu sonho ao ingressar na faculdade para cursar Análise e Desenvolvimento de Sistemas.
 <div/>
  
 <h1>Social Midia<h1/>
