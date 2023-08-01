@@ -1,6 +1,6 @@
-<h1>Olá! Meu nome é Warllei Martins👋</h1>
+<h1>Desenvolvedor Front-end</h1>
 
-Desenvolvedor Front-end | JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML/CSS | SASS | Tailwind | UI Design | Web Design | Figma
+JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML | CSS | SASS | Tailwind | UI Design | Web Design | Figma
 
 <div>
   <a href="https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp">
@@ -22,7 +22,7 @@ Desenvolvedor Front-end | JavaScript | TypeScript | ReactJs | React Native | Nex
 
 <br/>
   
-Olá! Meu nome é Warllei e sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha, com foco no desenvolvimento front-end. Ao longo dos meus dois anos de experiência, tive a oportunidade de trabalhar em diversos projetos envolvendo a criação de sites, redes sociais, e-commerce, portais, designs, blogs e aplicativos móveis.
+Olá! Meu nome é Warllei, sou estudante de análise e desenvolvimento de sistemas pela Universidade Vila Velha, com foco no desenvolvimento full stack. Ao longo dos meus dois anos de experiência, tive a oportunidade de trabalhar em diversos projetos envolvendo a criação de sites, redes sociais, e-commerce, portais, designs, blogs e aplicativos móveis.
 <div/>
   
 Em dezembro de 2021, meu interesse pela programação surgiu e desde então mergulhei de cabeça nesse fascinante mundo, começando pelo estudo de algoritmos e lógica de programação e, posteriormente, avançando para as tecnologias web, como HTML, CSS e JavaScript. Em abril de 2021, dei mais um passo em direção ao meu sonho ao ingressar na faculdade para cursar Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado com afinco ao aprendizado e ao aprimoramento das minhas habilidades como desenvolvedor front-end júnior. Cada projeto, desafio e experiência tem sido uma oportunidade de crescer e ampliar meu conhecimento nessa área empolgante.
