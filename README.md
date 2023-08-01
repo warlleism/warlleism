@@ -3,14 +3,14 @@
 JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML | CSS | SASS | Tailwind | UI Design | Web Design | Figma
 
 <div>
-  <a href="https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp">
+  <a href="https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp" target="_blank">
     <img src="https://img.shields.io/badge/-whatsapp-%0FAC0C?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank">
   </a>
   <a href="https://www.instagram.com/warlleimartinsdev/">
-    <img src="https://img.shields.io/badge/-Instagram-%0FAC0C?style=for-the-badge&logo=instagram&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%0FAC0C?style=for-the-badge&logo=instagram&logoColor=black" >
   </a>
-  <a href="mailto:warlleimartinsdev@outlook">
-    <img src="https://img.shields.io/badge/-Gmail-%0FAC0C?style=for-the-badge&logo=gmail&logoColor=black" target="_blank">
+  <a href="mailto:warlleimartinsdev@outlook" target="_blank>
+    <img src="https://img.shields.io/badge/-Gmail-%0FAC0C?style=for-the-badge&logo=gmail&logoColor=black" ">
   </a>
   <a href="https://www.behance.net/warlleimartins">
     <img src="https://img.shields.io/badge/-Behance-%0FAC0C?style=for-the-badge&logo=behance&logoColor=black" target="_blank">
