@@ -3,7 +3,7 @@
 JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML | CSS | SASS | Tailwind | UI Design | Web Design | Figma
 
 <div>
-  <a href="https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp" target="_black">
     <img src="https://img.shields.io/badge/-whatsapp-%0FAC0C?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank">
   </a>
   <a href="https://www.instagram.com/warlleimartinsdev/">
