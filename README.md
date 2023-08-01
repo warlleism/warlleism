@@ -2,7 +2,7 @@
 
 - 📜 Desenvolvedor Front-end | JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML/CSS | SASS | Tailwind | UI Design | Web Design | Figma
 - 📫 Contato: warlleimartinsdev@outlook.com
--  📱 Contate-me no whatsapp: 27995804151 | https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp
+-  📱 Contate-me no whatsapp: 27995804151 | <a href="https://api.whatsapp.com/send?phone=5527995804151&text=Meu%20Whatsapp"><img src="https://img.shields.io/badge/-whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 <div>
 <h2>Sobre min:</h2>
