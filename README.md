@@ -1,4 +1,4 @@
-<h1 style={{color: "red"}}>Desenvolvedor Front-end</h1>
+<h1 style="Color=black">Desenvolvedor Front-end</h1>
 
 JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML | CSS | SASS | Tailwind | UI Design | Web Design | Figma
 
