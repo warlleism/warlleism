@@ -1,6 +1,4 @@
-<h1>Desenvolvedor Front-end</h1>
-
-Desenvolvedor Full-Stack | JavaScript | TypeScript | Angular.JS | React.JS | React Native | Next.JS | Python
+<h1>Bem vindo(a) ao meu github!</h1>
 
 <div>
   <a href="https://api.whatsapp.com/send?phone=5527997964980&text=Meu%20Whatsapp" target="_black">
@@ -19,7 +17,9 @@ Desenvolvedor Full-Stack | JavaScript | TypeScript | Angular.JS | React.JS | Rea
     <img src="https://img.shields.io/badge/-Linkedin-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
+<br/>
+Desenvolvedor Full-Stack | JavaScript | TypeScript | Angular.JS | React.JS | React Native | Next.JS | Python
+<br/>
 <br/>
   
 Olá! Meu nome é Warllei. sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha, com ênfase em desenvolvimento. Ao longo da minha trajetória acadêmica, participei de projetos variados, incluindo criação de sites, redes sociais, e-commerce, portais, design, blogs e aplicativos móveis e arquitetura de sistemas. 
