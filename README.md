@@ -15,7 +15,7 @@ JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs |
   <a href="https://www.behance.net/warlleimartins">
     <img src="https://img.shields.io/badge/-Behance-%0FAC0C?style=for-the-badge&logo=behance&logoColor=black" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/warllei-martins-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-823510153/" target="_blank">
+  <a href="https://www.linkedin.com/in/warllei-martins-823510153/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%0FAC0C?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank">
   </a>
 </div>
