@@ -23,7 +23,6 @@ JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs |
 <br/>
   
 Olá! Meu nome é Warllei. sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha, com ênfase em desenvolvimento. Ao longo da minha trajetória acadêmica, participei de projetos variados, incluindo criação de sites, redes sociais, e-commerce, portais, design, blogs e aplicativos móveis e arquitetura de sistemas. 
-<div/>
 Busco oportunidades para aplicar meu conhecimento, experiência e aprimorar minhas habilidades como analista de sistemas. Quero integrar uma equipe inovadora, contribuir para projetos desafiadores e continuar aprendendo com profissionais experientes, visando crescimento na minha carreira.
 <div/>
 
