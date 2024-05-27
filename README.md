@@ -22,10 +22,9 @@ JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs |
 
 <br/>
   
-Olá! Meu nome é Warllei, sou estudante de análise e desenvolvimento de sistemas pela Universidade Vila Velha, com foco no desenvolvimento full stack. Ao longo dos meus dois anos de experiência, tive a oportunidade de trabalhar em diversos projetos envolvendo a criação de sites, redes sociais, e-commerce, portais, designs, blogs e aplicativos móveis.
+Olá! Meu nome é Warllei. sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha, com ênfase em desenvolvimento. Ao longo da minha trajetória acadêmica, participei de projetos variados, incluindo criação de sites, redes sociais, e-commerce, portais, design, blogs e aplicativos móveis e arquitetura de sistemas. 
 <div/>
-  
-Em dezembro de 2021, meu interesse pela programação surgiu e desde então mergulhei de cabeça nesse fascinante mundo, começando pelo estudo de algoritmos e lógica de programação e, posteriormente, avançando para as tecnologias web, como HTML, CSS e JavaScript. Em abril de 2021, dei mais um passo em direção ao meu sonho ao ingressar na faculdade para cursar Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado com afinco ao aprendizado e ao aprimoramento das minhas habilidades como desenvolvedor front-end júnior. Cada projeto, desafio e experiência tem sido uma oportunidade de crescer e ampliar meu conhecimento nessa área empolgante.
+Busco oportunidades para aplicar meu conhecimento, experiência e aprimorar minhas habilidades como analista de sistemas. Quero integrar uma equipe inovadora, contribuir para projetos desafiadores e continuar aprendendo com profissionais experientes, visando crescimento na minha carreira.
 <div/>
 
   
