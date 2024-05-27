@@ -4,19 +4,19 @@ JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs |
 
 <div>
   <a href="https://api.whatsapp.com/send?phone=5527997964980&text=Meu%20Whatsapp" target="_black">
-    <img src="https://img.shields.io/badge/-whatsapp-%0FAC0C?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/-whatsapp-4B0082?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/warlleimartins/">
-    <img src="https://img.shields.io/badge/-Instagram-%0FAC0C?style=for-the-badge&logo=instagram&logoColor=black" >
+    <img src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white" >
   </a>
   <a href="mailto:warlleimartinsdev@outlook" target="_blank>
-    <img src="https://img.shields.io/badge/-Gmail-%0FAC0C?style=for-the-badge&logo=gmail&logoColor=black" ">
+    <img src="https://img.shields.io/badge/-Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.behance.net/warlleimartins">
-    <img src="https://img.shields.io/badge/-Behance-%0FAC0C?style=for-the-badge&logo=behance&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-4B0082?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/warllei-martins-823510153/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%0FAC0C?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
