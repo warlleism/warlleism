@@ -1,6 +1,6 @@
 <h1>Desenvolvedor Front-end</h1>
 
-JavaScript | TypeScript | ReactJs | React Native | NextJs | AngularJs | NodeJs | HTML | CSS | SASS | Tailwind | UI Design | Web Design | Figma
+Desenvolvedor Full-Stack | JavaScript | TypeScript | Angular.JS | React.JS | React Native | Next.JS | Python
 
 <div>
   <a href="https://api.whatsapp.com/send?phone=5527997964980&text=Meu%20Whatsapp" target="_black">
