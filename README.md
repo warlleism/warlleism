@@ -18,7 +18,7 @@
   </a>
 </div>
 <br/>
-Desenvolvedor Full-Stack | JavaScript | TypeScript | Angular.JS | React.JS | React Native | Next.JS | Python
+Desenvolvedor Full-Stack | JavaScript | TypeScript | Angular.JS | React.JS | React Native | Next.JS | Node | TypeOrm | Serializer
 <br/>
 <br/>
   
