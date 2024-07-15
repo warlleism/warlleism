@@ -22,8 +22,7 @@ Desenvolvedor Full-Stack | JavaScript | TypeScript | Angular.JS | React.JS | Rea
 <br/>
 <br/>
   
-Olá! Meu nome é Warllei. sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha, com ênfase em desenvolvimento. Ao longo da minha trajetória acadêmica, participei de projetos variados, incluindo criação de sites, redes sociais, e-commerce, portais, design, blogs e aplicativos móveis e arquitetura de sistemas. 
-Busco oportunidades para aplicar meu conhecimento, experiência e aprimorar minhas habilidades como analista de sistemas. Quero integrar uma equipe inovadora, contribuir para projetos desafiadores e continuar aprendendo com profissionais experientes, visando crescimento na minha carreira.
+Olá! Meu nome é Warllei, e tenho 3 anos de experiência em desenvolvimento de software. Durante minha carreira, trabalhei em projetos variados, incluindo desenvolvimento de e-commerce, sistemas internos para empresas, websites e aplicativos móveis. Minha formação em Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha me deu uma base sólida, mas foi na prática que realmente desenvolvi minhas habilidades técnicas e a capacidade de entregar soluções eficazes. tenho experiência com uma variedade de tecnologias e ferramentas, e sempre busco aprimorar minhas habilidades e aprender novas técnicas. Estou em busca de oportunidades para aplicar meu conhecimento e experiência em uma equipe inovadora, contribuir para projetos desafiadores e continuar crescendo profissionalmente. Estou entusiasmado em enfrentar novos desafios e colaborar com profissionais experientes para alcançar resultados excepcionais.
 <div/>
 
   
