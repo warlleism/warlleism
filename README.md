@@ -32,6 +32,34 @@
 
 ---
 
+## Experiência 💼
+
+### DRT Sistemas · Desenvolvedor de front-end (mar de 2023 - dez de 2023) · 10 meses
+- Projetos desenvolvidos em ReactJs Framework.
+- Projetos desenvolvidos em NextJs Framework.
+- Projetos estilizados com Styled Component.
+- Gerenciamento de estado (Zustand/Context API).
+- Consumo de API / chat (API Rest/Axios/socket io).
+- Desenvolvimento de interfaces (HTML/CSS/JavaScript).
+- Prototipação (Figma).
+- Material UI.
+
+### Green Next · Mobile Application Developer (jan de 2023 - mar de 2023) · 3 meses
+- Projetos desenvolvidos em JavaScript e TypeScript.
+- Projetos desenvolvidos em React Native Framework (mobile).
+- Consumo de API (API Rest/Axios).
+
+### Quattror Comercial · Desenvolvedor de front-end (mar de 2022 - dez de 2022) · 10 meses
+- Projetos desenvolvidos em JavaScript e TypeScript.
+- Projetos desenvolvidos em ReactJs Framework.
+- Projetos desenvolvidos em React Native Framework (mobile).
+- Projetos desenvolvidos em NextJs Framework.
+- Gerenciamento de estado (Context API).
+- Consumo de API (API Rest/Axios).
+- Desenvolvimento de interfaces (HTML/CSS/JavaScript).
+
+---
+
 ## Projetos 📂
 
 - [Portfolio](https://portifoliowarllei.netlify.app/)
@@ -42,7 +70,3 @@
 - [API REST Node.js TypeScript TypeORM](https://github.com/warlleism/API-REST-Node.js-TypeScript-TypeORM)
 - [Python User Authentication Cryptography TokenJWT](https://github.com/warlleism/python-user-authentication-cryptography-tokenJWT)
 - [Backend System of Medical Consultations in Nest, Prisma, PostgreSQL](https://github.com/warlleism/backend-system-of-medical-consultations-in-nest-prisma-postgresql)
-
----
-
-Espero que goste desta versão melhorada! Se precisar de mais alguma coisa, é só avisar.
