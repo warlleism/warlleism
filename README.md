@@ -22,7 +22,7 @@
 
 ## Sobre Mim 🙋‍♂️
 
-💻 Desenvolvedor Full Stack | JavaScript | TypeScript | Node | Nest | Express | TypeOrm | Sequelize | Angular | React | React Native | Ionic |  Next | Jest | Docker
+💻 Desenvolvedor Front-end | TypeScript | React.js | React Native | Next.js | Nest.js | Docker
 
 👨‍💻 Olá! Meu nome é Warllei, e tenho 3 anos de experiência em desenvolvimento de software. Durante minha carreira, trabalhei em projetos variados, incluindo desenvolvimento de e-commerce, sistemas internos para empresas, websites e aplicativos móveis.
 
