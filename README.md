@@ -34,6 +34,14 @@
 
 ## Experiência 💼
 
+### Proregistro · Desenvolvedor de front-end (Jan de 2025 - momento)
+- Projetos desenvolvidos em ReactJs Framework.
+- Projetos desenvolvidos em NextJs Framework.
+- Desenvolvimento de interfaces (HTML/CSS/JavaScript).
+- Projetos estilizados com Styled Component.
+- Gerenciamento de estado (Zustand/Context API).
+- Estilização com TailwindCSS
+
 ### DRT Sistemas · Desenvolvedor de front-end (mar de 2023 - dez de 2023) · 10 meses
 - Projetos desenvolvidos em ReactJs Framework.
 - Projetos desenvolvidos em NextJs Framework.
